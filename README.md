@@ -14,7 +14,7 @@ Root Terminal is an awesome termux tool that will automatically
      <br>
 $ apt update -y <br>
 $apt install git -y <br>
-$git clone https://github.com/Star-Ford/RTerminal<br>
+$git clone https://github.com/Star-Ford/RootTerminal<br>
 $cd RTerminal <br>
 $chmod +x * <br>
 $./set.sh   or   bash set.sh
