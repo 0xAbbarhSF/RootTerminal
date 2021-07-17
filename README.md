@@ -1,7 +1,7 @@
 ## Graciàs : LulzS3curity T3AM <3 <br>
-<center>
-     <img src="https://imgupload.io/images/2021/01/03/FB_IMG_16095722977040983.jpg"  width="100"/><br>
-</center>
+
+     <img src="https://imgupload.io/images/2021/01/03/FB_IMG_16095722977040983.jpg">
+
 ASSALAMUALAIKUM ..... <3
 # RootTerminal:
 Root Terminal is an awesome termux tool that will automatically 
@@ -9,9 +9,10 @@ Root Terminal is an awesome termux tool that will automatically
 
 
 ### Features :
-<ul>
-*shopt all enabled
-*Editable
+
+* shopt all enabled
+* Editable
+
 ### INSTALLATION ON TERMUX
   
 > apt update -y 
