@@ -38,5 +38,5 @@ Root Terminal is an awesome termux tool that will automatically
 <li>Design : StarFord</li>
 <li>Coded By : .starlulz AKA StarFord</li>
 </ul>
-##Greetz : All Hackers ATW
+## Greetz : All Hackers ATW
 
