@@ -1,6 +1,6 @@
 ## Graciàs : LulzS3curity T3AM <3 <br>
 
-     <img src="https://imgupload.io/images/2021/01/03/FB_IMG_16095722977040983.jpg">
+     <img src="https://imgupload.io/images/2021/01/03/FB_IMG_16095722977040983.jpg"/>
 
 ASSALAMUALAIKUM ..... <3
 # RootTerminal:
@@ -27,11 +27,11 @@ Root Terminal is an awesome termux tool that will automatically
 
 > ./set.sh   or   bash set.sh
 
-####done, restart TERMUX 
+#### Done, restart TERMUX 
 
 
 
-###CopyRights | legal Claimers :
+### CopyRights | legal Claimers :
 
 <ul>
 <li>Author : StarFord</li>
