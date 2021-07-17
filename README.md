@@ -3,21 +3,21 @@
      <img src="https://imgupload.io/images/2021/01/03/FB_IMG_16095722977040983.jpg"  width="100"/><br>
 </center>
 ASSALAMUALAIKUM ..... <3
-<h3> RootTerminal </h3>:<br>
+# RootTerminal:
 Root Terminal is an awesome termux tool that will automatically 
 <br>modify the Termux HEADER and TERMINAL to base KALI LINUX 2021.4<br> root design
-# <h3>Features</h3> :
+### Features :
 <ul>
-<li>shopt all enabled</li>
-<li>Editable</li>
-# <h3>INSTALLATION ON TERMUX</h3>
-     <br>
-$ apt update -y <br>
-$apt install git -y <br>
-$git clone https://github.com/Star-Ford/RootTerminal<br>
-$cd RTerminal <br>
-$chmod +x * <br>
-$./set.sh   or   bash set.sh
+*shopt all enabled
+*Editable
+### INSTALLATION ON TERMUX
+  
+> apt update -y <br>
+> apt install git -y 
+> git clone https://github.com/Star-Ford/RootTerminal
+> cd RTerminal 
+> chmod +x * 
+> ./set.sh   or   bash set.sh
 
 done, restart TERMUX 
 
