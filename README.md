@@ -1,6 +1,7 @@
 ## Graciàs : LulzS3curity T3AM <3 <br>
 
-     <img src="https://imgupload.io/images/2021/01/03/FB_IMG_16095722977040983.jpg"/>
+#### Screenshot Preview
+<a href="https://ibb.co/hdv77jX"><img src="https://i.ibb.co/vd8wwGs/Screenshot-20210718-003449.png" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload pic</a><br />
 
 ASSALAMUALAIKUM ..... <3
 # RootTerminal:
